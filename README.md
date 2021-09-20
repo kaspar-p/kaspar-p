@@ -3,11 +3,12 @@
 <h1 align="center"> kaspar poland </h1>
 
 <p align="center">
-  software developer.
+  software developer at Semantic Arts.
+</p>
+<p align="center">
+  student at the University of Toronto.
 </p>
 <p align="center">
   proficient in Python and Javascript.
 </p>
-<p align="center">
-  interested in many things.
-</p>
+
