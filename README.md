@@ -9,6 +9,6 @@
   student at the University of Toronto.
 </p>
 <p align="center">
-  proficient in Python and Javascript.
+  <a href="http://www.kasparpoland.com"> www.kasparpoland.com </a>
 </p>
 
