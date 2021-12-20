@@ -9,6 +9,6 @@
   student at the University of Toronto.
 </p>
 <p align="center">
-  <a href="http://www.kasparpoland.com"> www.kasparpoland.com </a>
+  <a href="https://www.kasparpoland.com"> www.kasparpoland.com </a> and 
+  <a href="http://www.6krill.com"> www.6krill.com </a>
 </p>
-
