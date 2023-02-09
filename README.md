@@ -2,7 +2,7 @@
 
 <h2 align="center"> kaspar poland </h2>
 
-<div align="center">software developer at Semantic Arts.</div>
+<div align="center">software engineer at aws.</div>
 <div align="center">student at the University of Toronto.</div>
 <div style="display: flex-box; flex-direction: column" align="center">
   <div align="center"> <a href="https://www.kasparpoland.com"> www.kasparpoland.com </a> </div>
