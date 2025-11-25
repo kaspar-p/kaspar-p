@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kaspar-p&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kaspar-p&theme=algolia&show_icons=true" alt="Kaspar's Github Stats"></img>
 
 <h2 align="right"> kaspar poland </h2>
 
