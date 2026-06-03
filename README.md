@@ -2,7 +2,7 @@
 
 <h2 align="right"> kaspar poland </h2>
 
-<div align="right">software engineer at aws.</div>
+<div align="right">software engineer at stripe.</div>
 <div align="right">studied at the university of toronto.</div>
 <div align="right"> <a href="https://www.kasparpoland.com"> www.kasparpoland.com </a> </div>
 <div align="right"> <a href="http://www.typesofants.org"> www.typesofants.org </a> </div>
